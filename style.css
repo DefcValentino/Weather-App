@@ -91,3 +91,16 @@ body{
     font-size: 28px;
     margin: -6px;
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: red;
+    display: none;
+}
